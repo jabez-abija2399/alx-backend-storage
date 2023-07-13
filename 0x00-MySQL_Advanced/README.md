@@ -38,3 +38,7 @@
 * [1-country_users.sql](./1-country_users.sql) 1. In and not out 
 * [2-fans.sql](./2-fans.sql) 2. Best band ever! 
 * [3-glam_rock.sql](./3-glam_rock.sql) 3. Old school band 
+* [4-store.sql](./4-store.sql) 4. Buy buy buy 
+* [5-valid_email.sql](./5-valid_email.sql) 5. Email validation to sent 
+* [6-bonus.sql](./6-bonus.sql) 6. Add bonus 
+* [7-average_score.sql](./7-average_score.sql) 8. Optimize simple search

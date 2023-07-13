@@ -32,3 +32,9 @@
 * All SQL keywords should be in uppercase (SELECT, WHERE…)
 * A README.md file, at the root of the folder of the project, is mandatory
 * The length of your files will be tested using wc
+
+## Tasks
+* [0-uniq_users.sql](./0-uniq_users.sql) 0. We are all unique! 
+* [1-country_users.sql](./1-country_users.sql) 1. In and not out 
+* [2-fans.sql](./2-fans.sql) 2. Best band ever! 
+* [3-glam_rock.sql](./3-glam_rock.sql) 3. Old school band 

@@ -57,3 +57,6 @@
 * [10-update_topic.py](./10-update_topic.py) 10. Change school topics 
 * [11-schools_by_topic.py](./11-schools_by_topic.py) 11. Where can I learn Python? 
 * [12-log_static.py](./12-log_static.py) 12. Log stats 
+* [100-find](./100-find) 13. Regex filter 
+* [101-students.py](./101-students.py) 14. Top students
+* [102-log_stats.py](./102-log_stats.py) 15. Log stats - new version 

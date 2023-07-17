@@ -52,3 +52,8 @@
 * [5-count](./5-count) 5. Count 
 * [6-update](./6-update) 6. Update 
 * [7-delete](./7-delete) 7. Delete by match 
+* [8-all.py](./8-all.py) 8. List all documents in Python 
+* [9-insert_school.py](./9-insert_school.py) 9. Insert a document in Python 
+* [10-update_topic.py](./10-update_topic.py) 10. Change school topics 
+* [11-schools_by_topic.py](./11-schools_by_topic.py) 11. Where can I learn Python? 
+* [12-log_static.py](./12-log_static.py) 12. Log stats 

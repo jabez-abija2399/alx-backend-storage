@@ -46,3 +46,7 @@
 ## TASKS
 * [0-list_database](./0-lis_database) 0. List all databases
 * [1-use_or_create_database](./1-use_or_create_database) 1. Create a database 
+* [2-insert](./2-insert) 2. Insert document 
+* [3-all](./3-all) 3. All documents
+* [4-match](./4-match) 4. All matches 
+* [5-count](./5-count) 5. Count 

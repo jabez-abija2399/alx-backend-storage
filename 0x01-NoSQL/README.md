@@ -50,3 +50,5 @@
 * [3-all](./3-all) 3. All documents
 * [4-match](./4-match) 4. All matches 
 * [5-count](./5-count) 5. Count 
+* [6-update](./6-update) 6. Update 
+* [7-delete](./7-delete) 7. Delete by match 
